@@ -1,0 +1,12 @@
+c:\temp\DebtRemedy\Website\bin\Website.dll
+c:\temp\DebtRemedy\Website\bin\Website.pdb
+c:\temp\DebtRemedy\Website\bin\Website.xml
+c:\temp\DebtRemedy\Website\obj\Debug\ResolveAssemblyReference.cache
+c:\temp\DebtRemedy\Website\obj\Debug\Website.Resources.resources
+c:\temp\DebtRemedy\Website\obj\Debug\GenerateResource-ResGen.read.1.tlog
+c:\temp\DebtRemedy\Website\obj\Debug\GenerateResource-ResGen.write.1.tlog
+c:\temp\DebtRemedy\Website\obj\Debug\Website.dll
+c:\temp\DebtRemedy\Website\obj\Debug\Website.xml
+c:\temp\DebtRemedy\Website\obj\Debug\Website.pdb
+c:\temp\DebtRemedy\Website\obj\Debug\GenerateResource.read.1.tlog
+c:\temp\DebtRemedy\Website\obj\Debug\GenerateResource.write.1.tlog
